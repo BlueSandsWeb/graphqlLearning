@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/BlueSandsWeb/graphqlLearning/issues"
   },
-  "homepage": "https://github.com/BlueSandsWeb/graphqlLearning#readme"
+  "homepage": "https://github.com/BlueSandsWeb/graphqlLearning#readme",
+  "dependencies": {}
 }
